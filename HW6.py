@@ -1,6 +1,5 @@
 # MIN 545 HW 6
 # This code belongs to Nurdan Emin
-# 2143139
 
 import itertools
 
