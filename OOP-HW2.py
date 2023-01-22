@@ -1,6 +1,5 @@
 # MIN 545 OOP with Python HW2
 # This code belongs to Nurdan Emin
-# Student number 2143139
 # HW2: Develop an inheritance hierarchy based upon the following Polygon class.
 
 import math
